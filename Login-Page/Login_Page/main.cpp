@@ -2,6 +2,7 @@
 #include<fstream>
 #include<string.h>
 
+// Code Written by Salim Olanrewaju Oyinlola
 using namespace std;
 
 //Functions Prototypes
