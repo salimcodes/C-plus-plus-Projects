@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Code written by Salim Olanrewaju Oyinlola
+
 int main()
 {
     int quant; //The quantity of each of the order
