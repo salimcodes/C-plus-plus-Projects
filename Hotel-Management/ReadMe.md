@@ -2,7 +2,7 @@ This file contains a project that can be used in managing a Nigerian local hotel
 
 Here is a basic layout of the project on execution:
 
-//The PIN across is 1234
+The PIN across is 1234
 
 ![image](https://user-images.githubusercontent.com/64667212/155688592-7bfeb0ed-4a0a-4e55-8757-f1cbfe472193.png)
 
