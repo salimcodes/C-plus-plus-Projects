@@ -1,8 +1,9 @@
+// Code Written by Salim O. Oyinlola
+
 #include <iostream>
 #include<fstream>
 #include<string.h>
 
-// Code Written by Salim O. Oyinlola
 using namespace std;
 
 //Functions Prototypes
@@ -53,7 +54,7 @@ int main()
     }
 }
 
-
+//Declaring functions
 void login()
 {
 
